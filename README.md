@@ -19,17 +19,17 @@ It showcases various delicious dishes, healthy recipes, and cooking inspirations
 
 ## 🧱 Project Structure
 
-FoodRecipe/ /n
-│/n
-├── FoodRecipes.html # Main HTML file/n
-├── FoodRecipes.css # Stylesheet for the website/n
-├── images/ # Folder containing all images/n
-│ ├── food1.jpg/n
-│ ├── food2.jpg/n
-│ ├── chef.png/n
-│ ├── burger.png/n
-│ └── ... (other images)/n
-└── README.md # Project documentation/n
+FoodRecipe/ \n
+│\n
+├── FoodRecipes.html # Main HTML file\n
+├── FoodRecipes.css # Stylesheet for the website\n
+├── images/ # Folder containing all images\n
+│ ├── food1.jpg\n
+│ ├── food2.jpg\n
+│ ├── chef.png\n
+│ ├── burger.png\n
+│ └── ... (other images)\n
+└── README.md # Project documentation/\n
 
 ## 💻 Technologies Used
 
